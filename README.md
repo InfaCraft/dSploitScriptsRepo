@@ -19,7 +19,7 @@ NOTE: The [dSploit][dSploit] app and [dSploitScripts][dSploitScripts] app are li
 
 ----------------------------------
 
-Subbmitting A Script
+Submitting A Script
 ==============
 Just create a pull request and we will handle the rest!
 
