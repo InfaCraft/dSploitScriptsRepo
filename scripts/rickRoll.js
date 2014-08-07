@@ -1,0 +1,70 @@
+<script>
+	// Author: jkush321
+	// Name: Rick Roll
+	// Description: Spams alerts from the song Never Gonna Give You Up by Rick Astley
+
+	var lyrics = [
+		"Oooh",
+		"Were no strangers to love",
+		"You know the rules and so do I",
+		"A full commitments what Im thinking of",
+		"You woulndt get this from any other guy",
+		"I just wanna tell you how Im feeling",
+		"Gotta make you understand",
+		"Never gonna give you up",
+		"Never gonna let you down",
+		"Never gonna run around and desert you",
+		"Never gonna make you cry",
+		"Never gonna say goodbye",
+		"Never gonna tell a lie and hurt you",
+		"Weve known eachother for so long",
+		"Your hearts been aching",
+		"But youre to shy to say it",
+		"Inside, we both know whats been going on",
+		"We know the game and were gonna play it",
+		"And if you ask me how Im feeling",
+		"Dont tell me youre too blind to see",
+		"Never gonna give you up",
+		"Never gonna let you down",
+		"Never gonna run around and desert you",
+		"Never gonna make you cry",
+		"Never gonna say goodbye",
+		"Never gonna tell a lie and hurt you",
+		"Ooh, give you up",
+		"Ooh, give you up",
+		"Never gonna give",
+		"Never gonna give",
+		"Give you up",
+		"Never gonna give",
+		"Never gonna give",
+		"Give you up",
+		"Weve known eachother for so long",
+		"Your hearts been aching but youre too shy to say it",
+		"Inside, we both know whats been going on",
+		"We know the game and were gonna play it",
+		"I just wanna tell you how Im feeling",
+		"Gotta make you understand",
+		"Never gonna give you up",
+		"Never gonna let you down",
+		"Never gonna run around and desert you",
+		"Never gonna make you cry",
+		"Never gonna say goodbye",
+		"Never gonna tell a lie and hurt you",
+		"Never gonna give you up",
+		"Never gonna let you down",
+		"Never gonna run around and desert you",
+		"Never gonna make you cry",
+		"Never gonna say goodbye",
+		"Never gonna tell a lie and hurt you",
+		"Never gonna give you up",
+		"Never gonna let you down",
+		"Never gonna run around and desert you",
+		"Never gonna make you cry",
+		"Never gonna say goodbye",
+		"Never gonna tell a lie and hurt you"];
+		
+	for (i=0;i<lyrics.length;i++)
+	{
+		alert(lyrics[i]);
+	}
+</script>
