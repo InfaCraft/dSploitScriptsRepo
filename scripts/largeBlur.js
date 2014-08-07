@@ -3,5 +3,5 @@
 	// Name: Large Blur
 	// Description: Blurs the page by a large amount
 
-	document.body.style.webkitFilter="blur(5px)";
+	window.onload = function() { document.body.style.webkitFilter="blur(5px)"; }
 </script>
