@@ -27,7 +27,7 @@ Alternatively, you can send an email with your script to [dsploitscripts@infacra
 
 Please refer to the **template.js** file which will show you how to layout your script.
 
-*** Important Note: All scripts must start with "<script"  or there will be issues with injection.***
+<strong><em>Important Note: All scripts must start with "<script"  or there will be issues with injection.</em></strong>
 
 
 
