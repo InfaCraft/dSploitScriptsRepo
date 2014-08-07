@@ -14,7 +14,6 @@
 			var blue = Math.sin(tick + 270) * 127 + 128;
 			red=parseInt(red);green=parseInt(green);blue=parseInt(blue);
 			document.body.style.backgroundColor="rgb("+red+","+green+","+blue+")";
-			console.log("Red:"+red+" Grn:"+green+" Blu"+blue);
 		},50);
 	}
 </script>
