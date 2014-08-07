@@ -3,7 +3,7 @@
 	// Name: [Name of the script]
 	// Description: [Description of the script]
 
-	alert("This is a template!");
+	alert("Code goes here!");
 </script>
 
 //---------------------------//
