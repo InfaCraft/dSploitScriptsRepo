@@ -38,3 +38,4 @@ Please refer to the **template.js** file which will show you how to layout your 
 [InfaCraft]: http://infacraft.net
 [dSploitScriptsGPLAY]: https://play.google.com/store/apps/details?id=net.infacraft.dsploitscripts
 [dssemail]: mailto:dsploitscripts@infacraft.net
+[LICENSE]: https://github.com/InfaCraft/dSploitScriptsRepo/blob/master/LICENSE
